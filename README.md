@@ -30,23 +30,23 @@ To answer these questions bellow we walk through many different pandas & matplot
 - Labeling our graphs
 
 Once we have cleaned up our data a bit, we move the data exploration section. In this section we explore 11 high level business questions related to our data:
-- What was the best month for sales? How much was earned that month?
-![Image](images/Q1.png)
-- What's the year when we had a heighest number of Sales ?
-![Image](images/Q2.png)
-- What city sold the most product?
-![Image](images/Q3.png)
-- What products are most often sold together?
-![Image](images/Q4.png)
-- What product sold the most? Why do you think it sold the most?
-![Image](images/Q5.png)
-- Overall trend in sales over the given period 
-![Image](images/Q6.png)
-- Top selling products by quantity ordered and revenue generated
-![Image](images/Q7.png)
-- Correlation between price of a product and quantity ordered
-![Image](images/Q8.png)
-- Sales performance across different cities
-![Image](images/Q9.png)
-- Forcasting Sales for casablanca city in the next 4 months 
-![Image](images/Q10.png)
+- What was the best month for sales? How much was earned that month?<br>
+![Image](Images/Q1.png)
+- What's the year when we had a heighest number of Sales ?<br>
+![Image](Images/Q2.png)
+- What city sold the most product?<br>
+![Image](Images/Q3.png)
+- What products are most often sold together?<br>
+![Image](Images/Q4.png)
+- What product sold the most? Why do you think it sold the most?<br>
+![Image](Images/Q5.png)
+- Overall trend in sales over the given period <br>
+![Image](Images/Q6.png)
+- Top selling products by quantity ordered and revenue generated <br>
+![Image](Images/Q7.png)
+- Correlation between price of a product and quantity ordered <br>
+![Image](Images/Q8.png)
+- Sales performance across different cities <br>
+![Image](Images/Q9.png)
+- Forcasting Sales for casablanca city in the next 4 months <br>
+![Image](Images/Q10.png)
